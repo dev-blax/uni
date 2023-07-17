@@ -1,0 +1,7 @@
+node_modules
+Lib
+Include
+Scripts
+Share
+__pycache__
+pyvenv.cfg
